@@ -1,0 +1,2 @@
+const menuBtn=document.querySelector(".nav__menu");menuBtn.addEventListener("click",(function(){menuBtn.classList.contains("open")?menuBtn.classList.remove("open"):menuBtn.classList.add("open")}));
+//# sourceMappingURL=app.js.map

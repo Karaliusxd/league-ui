@@ -1,0 +1,9 @@
+.home {
+  overflow-x: hidden;
+  &__container {
+    img {
+      height: 100vh;
+      width: auto;
+    }
+  }
+}

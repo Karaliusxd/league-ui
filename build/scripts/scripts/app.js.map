@@ -1,0 +1,1 @@
+{"version":3,"file":"scripts/app.js","names":["menuBtn","document","querySelector","addEventListener","classList","contains","remove","add"],"sources":["scripts/app.js"],"mappings":"AAAA,MAAMA,QAAUC,SAASC,cAAc,cAEvCF,QAAQG,iBAAiB,SAAS,WAE3BH,QAAQI,UAAUC,SAAS,QAC1BL,QAAQI,UAAUE,OAAO,QAGzBN,QAAQI,UAAUG,IAAI,OAE9B"}
